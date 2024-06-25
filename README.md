@@ -18,13 +18,15 @@ The King County House Price Predictor is a machine learning application designed
    ```sh
    git clone https://github.com/Ferasqr/kingcounty-houses-prices-prediction.git
    cd kingcounty-houses-prices-prediction
+
 2.	Install the required libraries:
    ```sh
-    pip install -r requirements.txt
+   pip install -r requirements.txt
+
 3.	Run the Jupyter Notebooks or the GUI application:
-    ```sh
-    jupyter notebook Cleaning+ Models.ipynb
-    jupyter notebook Predictor app.ipynb
+   ```sh
+   jupyter notebook Cleaning+ Models.ipynb
+   jupyter notebook Predictor app.ipynb
 
 ## Usage
 
