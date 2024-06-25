@@ -1,4 +1,5 @@
 # King County House Price Predictor
+![CE200FDD-0ABD-46CF-8EF1-9F516276EACD](https://github.com/Ferasqr/kingcounty-houses-prices-prediction/assets/93034515/14d66af0-54f6-44a8-a28f-a85832a78667)
 
 ## Description
 The King County House Price Predictor is a machine learning application designed to predict house prices in King County, Washington. This repository contains Jupyter Notebooks and necessary files for data cleaning, model training, and a GUI application for predicting house prices.
